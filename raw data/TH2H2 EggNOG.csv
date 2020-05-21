@@ -1,0 +1,26 @@
+﻿EggNOG_category,counts,description
+A,0,A: RNA processing and modification
+B,0,B: Chromatin structure and dynamics
+C,168,C: Energy production and conversion
+D,33,"D: Cell cycle control, cell division, chromosome partitioning"
+E,306,E: Amino acid transport and metabolism
+F,87,F: Nucleotide transport and metabolism
+G,497,G: Carbohydrate transport and metabolism
+H,127,H: Coenzyme transport and metabolism
+I,93,I: Lipid transport and metabolism
+J,189,"J: Translation, ribosomal structure and biogenesis"
+K,432,K: Transcription
+L,165,"L: Replication, recombination and repair"
+M,225,M: Cell wall/membrane/envelope biogenesis
+N,57,N: Cell motility
+O,121,"O: Posttranslational modification, protein turnover, chaperones"
+P,270,P: Inorganic ion transport and metabolism
+Q,69,"Q: Secondary metabolites biosynthesis, transport and catabolism"
+R,0,R: General function prediction only
+S,1645,S: Function unknown
+T,241,T: Signal transduction mechanisms
+U,31,"U: Intracellular trafficking, secretion, and vesicular transport"
+V,93,V: Defense mechanisms
+W,0,W: Extracellular structures
+Y,0,Y: Nuclear structure
+Z,1,Z: Cytoskeleton
